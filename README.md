@@ -1,5 +1,5 @@
 Hi there, my name is Hongjia(Alex) Huang, a student from NYUSH majoring in Computer Science & Mathematics. I am also interested in the foundations of science, mainly physics and chemistry.
-- 💻 I’m interested in computer vision, generative AI, and AI4Science.
+- I am interested in computer vision, generative AI, and AI4Science.
 - If you want to know more about me, please see my personal website.
 <!---
 - 👋 Hi, I’m @scaliaven
