@@ -1,6 +1,5 @@
-Hi there, my name is Hongjia(Alex) Huang, a student from NYUSH majoring in Computer Science & Mathematics. I am also interested in the foundations of science, mainly physics and chemistry.
-- I am interested in computer vision, generative AI, and AI4Science.
-- If you want to know more about me, please see my personal website.
+Hi there, my name is Hongjia(Alex) Huang, a student from NYUSH majoring in Computer Science & Mathematics. My academic interests sit at the intersection of computer vision, generative AI, and AI for Science, driven by a deeper curiosity about the foundations of physics and chemistry. If you want to know more about me, please see my personal website.
+
 <!---
 - 👋 Hi, I’m @scaliaven
 - 👀 I’m interested in ...
@@ -12,6 +11,8 @@ Hi there, my name is Hongjia(Alex) Huang, a student from NYUSH majoring in Compu
 
 scaliaven/scaliaven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+People often describe my mindset as young and dangerous—not in the reckless sense, but in the way youthful curiosity combines with a willingness to question assumptions and push into unexplored territory. It’s the energy that drives me to chase ideas at the intersection of science and technology, from understanding how molecules behave to designing systems that can learn, reason, and generate. This blend of ambition and intellectual fearlessness is what keeps me building, experimenting, and searching for the next breakthrough.
 --->
 
 <h3 align="left">Languages and Tools:</h3>
