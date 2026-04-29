@@ -1,35 +1,53 @@
-Hi there, my name is Hongjia(Alex) Huang, a student from NYUSH majoring in Computer Science & Mathematics. My academic interests sit at the intersection of computer vision, generative AI, and AI for Science, driven by a deeper curiosity about the foundations of physics and chemistry. If you want to know more about me, please see my personal website.
+<h1 align="center">Hi, I'm Hongjia (Alex) Huang 👋</h1>
 
-<!---
-- 👋 Hi, I’m @scaliaven
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-scaliaven/scaliaven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-People often describe my mindset as young and dangerous—not in the reckless sense, but in the way youthful curiosity combines with a willingness to question assumptions and push into unexplored territory. It’s the energy that drives me to chase ideas at the intersection of science and technology, from understanding how molecules behave to designing systems that can learn, reason, and generate. This blend of ambition and intellectual fearlessness is what keeps me building, experimenting, and searching for the next breakthrough.
---->
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
-  </a> 
-  <a href="https://julialang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://julialang.org/assets/infra/logo.svg" alt="julia" width="40" height="40"/> 
-  </a> 
+<p align="center">
+  CS & Mathematics @ NYU Shanghai &nbsp;·&nbsp; Computer Vision · Generative AI · AI for Science
 </p>
 
+---
 
+I'm a student driven by curiosity about what happens at the boundary between computation and the physical world — how molecules behave, how images encode meaning, and how learned representations can accelerate scientific discovery. My work sits at the intersection of **computer vision**, **generative AI**, and **AI for Science**, grounded in a deeper interest in the mathematical and physical principles underneath it all.
+
+People often describe my mindset as *young and dangerous* — not reckless, but the kind of fearlessness that comes from combining youthful curiosity with a willingness to question assumptions and push into unexplored territory.
+
+---
+
+### What I'm thinking about
+
+- Generative models and their role in understanding structure in data
+- Computer vision applied to scientific domains (molecular imagery, simulation outputs)
+- The interplay between physics, chemistry, and machine learning
+
+---
+
+### Languages & Tools
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  </a>
+  <a href="https://julialang.org/" target="_blank" rel="noreferrer">
+    <img src="https://julialang.org/assets/infra/logo.svg" alt="Julia" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=scaliaven&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scaliaven&layout=compact&hide_border=true" alt="Top languages" height="150"/>
+</p>
+
+---
+
+<p align="center">
+  Want to know more? Check out my <a href="https://scaliaven.github.io">personal website</a> or reach out — I'm always happy to talk about research, ideas, or potential collaborations.
+</p>
