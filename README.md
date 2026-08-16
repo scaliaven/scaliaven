@@ -1,4 +1,4 @@
-Hi there, my name is Hongjia(Alex) Huang, a student from NYUSH majoring in Computer Science & Mathematics. My academic interests sit at the intersection of computer vision, generative AI, and AI for Science, driven by a deeper curiosity about the foundations of physics and chemistry. If you want to know more about me, please see my personal website.
+Hi there, my name is Hongjia (Alex) Huang, a recent Computer Science & Mathematics graduate from NYU Shanghai. I work on robot learning, computer vision, and generative models — currently on physics-grounded world models and vision-language-action policies, with earlier work in AI for Science (molecular force fields and reconstruction). Underneath it all is a curiosity about how a small set of physical laws produces everything around us. If you want to know more, please see my personal website.
 
 <!---
 - 👋 Hi, I’m @scaliaven
